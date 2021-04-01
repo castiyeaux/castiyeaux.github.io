@@ -69,7 +69,10 @@ li > a:hover {
     color: black;
 }
 
+.clickhere {
+    color:rgb(171, 103, 211);
+}
 
-.test {
-    background-color: #F5EFEF;
+.clickhere > a {
+    color:rgb(171, 103, 211);
 }
