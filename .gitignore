@@ -2,4 +2,3 @@
 .editorconfig
 *.env
 node_modules/
-CNAME
